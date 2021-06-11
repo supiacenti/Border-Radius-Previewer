@@ -1,2 +1,2 @@
-# Border-Radius-Previewer
+# Border Radius Previewer
 Gerador de Border Radius.
