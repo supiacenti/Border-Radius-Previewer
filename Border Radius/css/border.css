@@ -1,0 +1,54 @@
+html{
+    background-color: rgb(22, 22, 22);
+}
+.box{
+    background-color: pink;
+    width: 450px;
+    height: 450px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.view{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    background-color: rgb(63, 63, 63);
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+header{
+    text-align: center;
+    font-size: 25pt;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+textarea{
+    height: 100px;
+    width: 200px;
+}
+.info{
+    color: white;
+    width: 450px;
+    height: auto;
+    margin: auto;
+}
+input{
+    width: 50px;
+}
+p{
+    text-align: center;
+    margin-top: 5px;
+}
