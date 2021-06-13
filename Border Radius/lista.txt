@@ -1,4 +1,4 @@
 ✔ html: div principal
 ✔ css: interface
 ✔ css: bloco central/preview
-- js
+✔ js
